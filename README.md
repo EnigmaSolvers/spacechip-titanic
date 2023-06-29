@@ -1,4 +1,4 @@
-# Spacechip Titanic, a Kaggle competition
+# Spaceship Titanic, a Kaggle competition
 
 
 
